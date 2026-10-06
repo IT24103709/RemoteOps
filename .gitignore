@@ -1,3 +1,6 @@
 agent_709
 controller_709
+*.logagent_709
+controller_709
 *.o
+*.log
