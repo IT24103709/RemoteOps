@@ -57,3 +57,12 @@ Document any known limitations discovered during testing.
 
 ## Screenshots
 Screenshots of the source code, runtime output, file transfers, monitoring, logs, and concurrent connections are stored in the screenshots directory.
+## Features
+- TCP client-server communication
+- Authentication
+- System information
+- Process listing
+- Restricted command execution
+- File upload and download
+- UDP monitoring
+- Event logging
